@@ -1,0 +1,217 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="MF_ColorControls" ExportPath="/Script/Engine.MaterialFunction'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls'"
+   Begin Object Class=/Script/Engine.MaterialFunctionEditorOnlyData Name="MF_ColorControlsEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MF_ColorControlsEditorOnlyData'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionConstant_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionConstant_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_4" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionConstant_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_5" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionConstant_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0" ExportPath="/Script/Engine.MaterialExpressionConstant3Vector'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionConstant3Vector_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDesaturation Name="MaterialExpressionDesaturation_0" ExportPath="/Script/Engine.MaterialExpressionDesaturation'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionDesaturation_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_3" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_4" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_5" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionOutput_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionMaterialFunctionCall_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_1" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionMaterialFunctionCall_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionMultiply_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionMultiply_1'"
+   End Object
+   Begin Object Class=/Script/Engine.Material Name="Material_0" ExportPath="/Script/Engine.Material'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:Material_0'"
+      Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="Material_0EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:Material_0.Material_0EditorOnlyData'"
+      End Object
+   End Object
+   Begin Object Name="MF_ColorControlsEditorOnlyData" ExportPath="/Script/Engine.MaterialFunctionEditorOnlyData'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MF_ColorControlsEditorOnlyData'"
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'MF_ColorControls:MaterialExpressionFunctionOutput_0'","/Script/Engine.MaterialExpressionConstant3Vector'MF_ColorControls:MaterialExpressionConstant3Vector_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_0'","/Script/Engine.MaterialExpressionMultiply'MF_ColorControls:MaterialExpressionMultiply_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_1'","/Script/Engine.MaterialExpressionDesaturation'MF_ColorControls:MaterialExpressionDesaturation_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_2'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_ColorControls:MaterialExpressionMaterialFunctionCall_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_3'","/Script/Engine.MaterialExpressionMultiply'MF_ColorControls:MaterialExpressionMultiply_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_4'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_ColorControls:MaterialExpressionMaterialFunctionCall_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_5'","/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_1'","/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_3'","/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_4'","/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_5'"))
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionConstant_1'"
+      MaterialExpressionEditorX=-357
+      MaterialExpressionEditorY=781
+      MaterialExpressionGuid=4403C0DE484792F6C0D54195AFD99842
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionConstant_3'"
+      R=1.000000
+      MaterialExpressionEditorX=203
+      MaterialExpressionEditorY=1129
+      MaterialExpressionGuid=B07A147D47F7CBE52FE73E954BB66F62
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_4" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionConstant_4'"
+      MaterialExpressionEditorX=679
+      MaterialExpressionEditorY=1276
+      MaterialExpressionGuid=8E8FDD6F4DB45EB02074D3A70694DA67
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_5" ExportPath="/Script/Engine.MaterialExpressionConstant'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionConstant_5'"
+      MaterialExpressionEditorX=-52
+      MaterialExpressionEditorY=936
+      MaterialExpressionGuid=6F08A3CE460CE9EF92D879BFD4338BF7
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0" ExportPath="/Script/Engine.MaterialExpressionConstant3Vector'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionConstant3Vector_0'"
+      Constant=(R=1.000000,G=1.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-640
+      MaterialExpressionEditorY=464
+      MaterialExpressionGuid=873E190E44B6D00C4D4D3F998162864A
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionDesaturation_0" ExportPath="/Script/Engine.MaterialExpressionDesaturation'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionDesaturation_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'MF_ColorControls:MaterialExpressionMultiply_0'")
+      Fraction=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_2'")
+      MaterialExpressionEditorX=184
+      MaterialExpressionEditorY=493
+      MaterialExpressionGuid=4AE847574C35D252525B60907BBE1672
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_0'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant3Vector'MF_ColorControls:MaterialExpressionConstant3Vector_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      InputName="Tint"
+      Id=ADFDC8CB4291A413B9DD1B813B9F4AE2
+      bUsePreviewValueAsDefault=True
+      SortPriority=1
+      MaterialExpressionEditorX=-368
+      MaterialExpressionEditorY=464
+      MaterialExpressionGuid=C7B0CAEA4575444AE9D5EB840006B593
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_1" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_1'"
+      InputName="Color"
+      Id=C2270C8C47629CF2D3652B803572095D
+      MaterialExpressionEditorX=-384
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=DF31636C438D7F2E309A7B9E0605A3FC
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_2" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_2'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_1'")
+      InputName="Desaturation"
+      Id=5C3F72C14494EEBACD5CE79DD19B5A38
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=2
+      MaterialExpressionEditorX=-128
+      MaterialExpressionEditorY=640
+      MaterialExpressionGuid=200A64A647C8590032AB81ACEB07321A
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_3" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_3'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_5'")
+      InputName="Hue Shift"
+      Id=A9F789894CF142D0D60A8A8B6325F2D9
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=3
+      MaterialExpressionEditorX=176
+      MaterialExpressionEditorY=816
+      MaterialExpressionGuid=EC3351784D23B2D1867D089BAC0DE521
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_4" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_4'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_3'")
+      InputName="Brightness"
+      Id=DDF6BF6040A58EF4A9E12DA7D5911C56
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=4
+      MaterialExpressionEditorX=432
+      MaterialExpressionEditorY=976
+      MaterialExpressionGuid=79C6F1D140095A9AC87523B25411911F
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_5" ExportPath="/Script/Engine.MaterialExpressionFunctionInput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionInput_5'"
+      Preview=(Expression="/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_4'")
+      InputName="Contrast"
+      Id=DE25F98F4F9810F05E1460A1A48B7F69
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=5
+      MaterialExpressionEditorX=896
+      MaterialExpressionEditorY=1104
+      MaterialExpressionGuid=87330A8946306900470027BF45A354FD
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_0" ExportPath="/Script/Engine.MaterialExpressionFunctionOutput'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionFunctionOutput_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_ColorControls:MaterialExpressionMaterialFunctionCall_1'")
+      bLastPreviewed=True
+      Id=754B3FE5461E8DC76985F09572EE15E5
+      MaterialExpressionEditorX=1488
+      MaterialExpressionEditorY=944
+      MaterialExpressionGuid=DE02CD8E43EE586BF6773690FEF1841A
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionMaterialFunctionCall_0'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/HueShift.HueShift'"
+      FunctionInputs(0)=(ExpressionInputId=AC2B9A554C8F2FC44CAFC38DEECA8B27,Input=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_3'",InputName="Hue Shift Percentage"))
+      FunctionInputs(1)=(ExpressionInputId=7357D1CC481540757C89D685B6F4ED36,Input=(Expression="/Script/Engine.MaterialExpressionDesaturation'MF_ColorControls:MaterialExpressionDesaturation_0'",InputName="Texture"))
+      FunctionOutputs(0)=(ExpressionOutputId=52E5E332482A8447B8F4679D4758D2F3,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=464
+      MaterialExpressionEditorY=640
+      MaterialExpressionGuid=C328FBCC4324C86D88AAF9843F7C0DE6
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_1" ExportPath="/Script/Engine.MaterialExpressionMaterialFunctionCall'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionMaterialFunctionCall_1'"
+      MaterialFunction="/Script/Engine.MaterialFunction'/Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.CheapContrast_RGB'"
+      FunctionInputs(0)=(ExpressionInputId=95C9DA0E48D34168E34AD3A607BAA34E,Input=(Expression="/Script/Engine.MaterialExpressionMultiply'MF_ColorControls:MaterialExpressionMultiply_1'",InputName="In"))
+      FunctionInputs(1)=(ExpressionInputId=3C3E177E485D8FFFC35D1482F0A20020,Input=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_5'",InputName="Contrast"))
+      FunctionOutputs(0)=(ExpressionOutputId=5067ED8C4A2EFE82DB33F99EBE37E80E,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=1126
+      MaterialExpressionEditorY=983
+      MaterialExpressionGuid=50C35F83483614F63F5CF0B1C6BD16FC
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionMultiply_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_0'")
+      MaterialExpressionEditorX=-112
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=FB8208694AFEBC86FA1478A8D8440A11
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:MaterialExpressionMultiply_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_ColorControls:MaterialExpressionMaterialFunctionCall_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_4'")
+      MaterialExpressionEditorX=828
+      MaterialExpressionEditorY=829
+      MaterialExpressionGuid=2BF5479942BAF9053DD107A649DFF420
+      Function="/Script/Engine.MaterialFunction'MF_ColorControls'"
+   End Object
+   Begin Object Name="Material_0" ExportPath="/Script/Engine.Material'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:Material_0'"
+      Begin Object Name="Material_0EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/StylizedScene/Materials/Functions/Utility/MF_ColorControls.MF_ColorControls:Material_0.Material_0EditorOnlyData'"
+         EmissiveColor=(Expression="/Script/Engine.MaterialExpressionFunctionOutput'MF_ColorControls:MaterialExpressionFunctionOutput_0'")
+         ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionFunctionOutput'MF_ColorControls:MaterialExpressionFunctionOutput_0'","/Script/Engine.MaterialExpressionConstant3Vector'MF_ColorControls:MaterialExpressionConstant3Vector_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_0'","/Script/Engine.MaterialExpressionMultiply'MF_ColorControls:MaterialExpressionMultiply_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_1'","/Script/Engine.MaterialExpressionDesaturation'MF_ColorControls:MaterialExpressionDesaturation_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_2'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_ColorControls:MaterialExpressionMaterialFunctionCall_0'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_3'","/Script/Engine.MaterialExpressionMultiply'MF_ColorControls:MaterialExpressionMultiply_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_4'","/Script/Engine.MaterialExpressionMaterialFunctionCall'MF_ColorControls:MaterialExpressionMaterialFunctionCall_1'","/Script/Engine.MaterialExpressionFunctionInput'MF_ColorControls:MaterialExpressionFunctionInput_5'","/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_1'","/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_3'","/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_4'","/Script/Engine.MaterialExpressionConstant'MF_ColorControls:MaterialExpressionConstant_5'"))
+      End Object
+      ShadingModel=MSM_Unlit
+      ShadingModels=(ShadingModelField=1)
+      bCanMaskedBeAssumedOpaque=True
+      StateId=08A58DC944334778A99225BB27F284C9
+      EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'Material_0EditorOnlyData'"
+      LightingGuid=627E4EFA4DF7C2BAE8BB7A896DC9A45A
+   End Object
+   DependentFunctionExpressionCandidates(0)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_0'"
+   DependentFunctionExpressionCandidates(1)="/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_1'"
+   EditorOnlyData="/Script/Engine.MaterialFunctionEditorOnlyData'MF_ColorControlsEditorOnlyData'"
+   StateId=FE8736DA40F1168099172A81A87D0B1B
+   CombinedInputTypes=15
+   CombinedOutputTypes=15
+End Object
